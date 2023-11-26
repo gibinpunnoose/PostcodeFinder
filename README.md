@@ -4,7 +4,7 @@ Postcodes.io is a free, open-source API (Application Programming Interface) that
 
 Installation / Usage
 
--> First install Composer 
+->Step 1. Install Composer 
 
--> then use php artisan serve
+->Step 2. php artisan serve
 
